@@ -6,8 +6,8 @@ public class Prueba {
 		
 		// A partir de aquí escriban sus nombres de usuario	
 		System.out.println("ChiknahuiKoatl");
-		System.out.println("thepresidentm");
 		System.out.println("RPTED255");
+		System.out.println("thepresidentm");
 	}
 
 }
