@@ -13,7 +13,16 @@ public class Prueba {
 		System.out.println("A-Luna-R");
 		System.out.println("Edgar888");
 		System.out.println("gentle-earthquake");
-        System.out.println("JoseAntonio9");
+		System.out.println("Wallsified");
+		System.out.println("Angeluskings04");
+		System.out.pritntln("memolokote");
+		System.out.println("S0SA76");
+		System.out.println("Aloscs");
+		System.out.println("zKaaanon");
+		System.out.println("ccn712");
+		System.out.println("mnts94");
+		System.out.println("Johnblue55555");
+    System.out.println("JoseAntonio9");
 	}
 
 }
