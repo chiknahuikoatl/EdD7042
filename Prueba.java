@@ -13,6 +13,9 @@ public class Prueba {
 		System.out.println("A-Luna-R");
 		System.out.println("Edgar888");
 		System.out.println("gentle-earthquake");
+		System.out.println("Wallsified");
+		System.out.println("Angeluskings04");
+		System.out.pritntln("memolokote");
 		System.out.println("S0SA76");
 	}
 
