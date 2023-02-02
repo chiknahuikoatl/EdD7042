@@ -18,6 +18,8 @@ public class Prueba {
 		System.out.pritntln("memolokote");
 		System.out.println("S0SA76");
 		System.out.println("Aloscs");
+		System.out.println("Johnblue55555");
+
 	}
 
 }
