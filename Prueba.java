@@ -25,7 +25,9 @@ public class Prueba {
 		System.out.println("JoseAntonio9");
 		System.out.println("cr1stan");
 		System.out.println("allanjh10");
-		System.out.print("LuyiAngel");
+    System.out.println("angeloffline")
+    System.out.print("LuyiAngel");
+
 	}
 
 }
