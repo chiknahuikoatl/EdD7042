@@ -22,7 +22,7 @@ public class Prueba {
 		System.out.println("ccn712");
 		System.out.println("mnts94");
 		System.out.println("Johnblue55555");
-    System.out.println("JoseAntonio9");
+		System.out.println("JoseAntonio9");
 	}
 
 }
