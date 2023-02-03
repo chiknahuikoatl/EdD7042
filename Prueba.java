@@ -33,7 +33,14 @@ public class Prueba {
    		System.out.print("LuyiAngel");
 		System.out.println("AtzinXIV");
 		System.out.println("BrendaMedinaRuiz");
+
 		System.out.println("Anthonyafk");
+            	System.out.println("angeloffline")
+        	System.out.print("LuyiAngel");
+        	System.out.print("alfredobarke");
+
+        System.out,println("Fernando2198");
+        System.out.println("TacosDjamaica");
 
 	}
 
