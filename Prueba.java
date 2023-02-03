@@ -34,6 +34,9 @@ public class Prueba {
 		System.out.println("AtzinXIV");
 		System.out.println("BrendaMedinaRuiz");
 		System.out.println("Anthonyafk");
+            	System.out.println("angeloffline")
+        	System.out.print("LuyiAngel");
+        	System.out.print("alfredobarke");
 
 	}
 
