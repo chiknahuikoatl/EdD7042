@@ -3,8 +3,8 @@ public class Prueba {
 	public static void main(String[] args){
 
 		System.out.println("Hola mundo");
-		
-		// A partir de aquí escriban sus nombres de usuario	
+
+		// A partir de aquí escriban sus nombres de usuario
 		System.out.println("ChiknahuiKoatl");
 		System.out.println("RPTED255");
 		System.out.println("thepresidentm");
@@ -22,13 +22,27 @@ public class Prueba {
 		System.out.println("ccn712");
 		System.out.println("mnts94");
 		System.out.println("Johnblue55555");
+		System.out.println("HazelTorresNava");
 		System.out.println("JoseAntonio9");
 		System.out.println("cr1stan");
 		System.out.println("allanjh10");
-        	System.out.println("angeloffline");
-        	System.out.print("LuyiAngel");
+    System.out.println("angeloffline");
+    System.out.print("LuyiAngel");
+		System.out.println("alonsogads");
+		System.out.println("Axelitoflores");
+    System.out.println("angeloffline");
+    System.out.print("LuyiAngel");
+		System.out.println("AtzinXIV");
+		System.out.println("BrendaMedinaRuiz");
+		System.out.println("Anthonyafk");
+    System.out.println("angeloffline")
+    System.out.print("LuyiAngel");
+    System.out.print("alfredobarke");
+    System.out,println("Fernando2198");
+    System.out.println("TacosDjamaica");
+	  System.out.println("EmiVans");
+		System.out.println("PaolaCasst");
 		System.out.println("axellank");
-
 	}
 
 }
