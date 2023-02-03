@@ -15,7 +15,7 @@ public class Prueba {
 		System.out.println("gentle-earthquake");
 		System.out.println("Wallsified");
 		System.out.println("Angeluskings04");
-		System.out.pritntln("memolokote");
+		System.out.println("memolokote");
 		System.out.println("S0SA76");
 		System.out.println("Aloscs");
 		System.out.println("zKaaanon");
@@ -23,6 +23,26 @@ public class Prueba {
 		System.out.println("mnts94");
 		System.out.println("Johnblue55555");
 		System.out.println("HazelTorresNava");
+		System.out.println("JoseAntonio9");
+		System.out.println("cr1stan");
+		System.out.println("allanjh10");
+    	System.out.println("angeloffline");
+    	System.out.print("LuyiAngel");
+		System.out.println("alonsogads");
+		System.out.println("Axelitoflores");
+   		System.out.println("angeloffline");
+   		System.out.print("LuyiAngel");
+		System.out.println("AtzinXIV");
+		System.out.println("BrendaMedinaRuiz");
+		System.out.println("Anthonyafk");
+            	System.out.println("angeloffline")
+        	System.out.print("LuyiAngel");
+        	System.out.print("alfredobarke");
+
+        System.out,println("Fernando2198");
+        System.out.println("TacosDjamaica");
+	  System.out.println("EmiVans");
+		System.out.println("PaolaCasst");
 	}
 
 }
